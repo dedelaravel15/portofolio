@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'poppins';
+  
+   
+}
+nav ul{
+    display: flex;
+    margin-left: 10px;
+}
+ul li{
+    margin-left: 10px;
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+}
+li a:hover{
+    text-decoration: underline;
+}
+.content{
+    text-align: center;
+    align-items: center;
+    font-family: 'poppins';
+    margin-top: 100px;
+}
+.nav-content{
+    background-color: #2e86de;
+    margin: 0;
+    height: 400px;
+
+}
+.nail-about{
+    text-align: center;
+    font-family: 'poppins';
+    margin-top: 280px;
+    margin-bottom: 500px;
+}
+.angka{
+    display: flex;
+    margin-left: 630px;
+}
+.satu{
+    margin-right: 100px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 50%;
+}
+.dua{
+    cursor: pointer;
+    margin-right: 100px;
+    padding: 5px;
+    border-radius: 50%;
+}
+.about{
+    width: 600px;
+    opacity: 0.4;
+}
+.warna{
+    background-color: #2e86de;
+}
+.quotes{
+    margin-bottom: 600px;
+}
+.quotes h1{
+    font-family: poppins;
+    text-align: center;
+    
+}
+.quotes p{
+    text-align: center;
+    font-family: 'poppins';
+    opacity: 0.4;
+}
+.education h2{
+    text-align: center;
+    font-family: poppins;
+    margin-top: 100px;
+}
+.education-nail{
+    display: flex;
+}
+.education hr{
+    width: 600px;
+    opacity: 0.4;
+
+}
+.school{
+    font-family: 'poppins';
+    display: flex;
+}
+.school-nail{
+    margin-left: 200px;
+}
+footer{
+    text-align: center;
+    font-family: 'poppins';
+}
+.img-profile
+{
+    width: 200px;
+    height: 200px;
+   
+}
+.data-profile{
+    /* display: flex;
+    margin-top: 5px;
+   
+    justify-content: center;
+    align-items: center; */
+}
+table{
+    font-family: 'poppins';
+}
+.skils h1{
+    font-family: 'poppins';
+    text-align: center;
+    margin-top: 600px;
+}
+hr{
+    opacity:0.4;
+}
+.nail-skils{
+    margin-left: 100px;
+}
+.nail-skils p{
+    font-family: 'poppins';
+}
+.skil{
+    display: flex;
+}
+.double{
+    display: flex;
+    justify-content: space-between;
+}
+.data-profile h1{
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    font-family: 'poppins';
+}
+.nail-profile{
+    display: flex;
+    justify-content: space-between;
+}
